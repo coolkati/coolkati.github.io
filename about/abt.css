@@ -23,6 +23,7 @@
 	grid-area: A;
 }
 .B {
+	grid-area: B;
 	/*text-align: right;*/
 }
 .B img {
