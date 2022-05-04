@@ -1,4 +1,0 @@
-I started the project intending to make a movies website that would discuss several interesting movies.
-As I moved along I narrowed it to one specific movie to better focus on it and have a smaller scope. 
-The goal of the animations was to guide the user and give the website a movie-like aesthetic.
-After doing this, I can see how animations can be used in a practical way as well as an aesthetic way to enhance the brand and appeal of a site.

@@ -1,0 +1,9 @@
+.wrapper {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+	/*grid-template-rows: 1fr 1fr;*/
+	grid-column-gap: 20px;
+}
+.col {
+	padding: 30px;
+}
