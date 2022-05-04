@@ -5,8 +5,10 @@ body {
 	color: white;
   width: 100%;
   height: 100%;
-  overflow-x: hidden;
   font-family: 'Play', sans-serif;
+}
+.megacontainer {
+  overflow-x: hidden;
 }
 img {
 	width: 100%;
