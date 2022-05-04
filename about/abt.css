@@ -15,6 +15,7 @@
     grid-template-areas:
       "A A A B";
   }
+}
 .col {
 	padding: 30px;
 }
