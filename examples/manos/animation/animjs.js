@@ -7,7 +7,7 @@ var tl1 = gsap.timeline({scrollTrigger: {
 		start: "top top",
    		end: "bottom top",
    		pin: true,
-   		scrub: 3
+   		scrub: true //was 3
 	}})
 	tl1.to('.descManos', {opacity: 0, duration: 2})
 
@@ -18,7 +18,7 @@ var tl2 = gsap.timeline({scrollTrigger: {
 		start: "top top",
    		end: "bottom top",
    		pin: true,
-   		scrub: 3
+   		scrub: true //was 3
 	}})
 	tl2.from('.logoManos', {opacity: 0, duration: 2})
 		.to('.logoManos', {zIndex: 3, scaleX: 1.2, scaleY: 1.2, duration: 2}, '<')

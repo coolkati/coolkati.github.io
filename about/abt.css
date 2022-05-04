@@ -23,13 +23,13 @@
 	grid-area: A;
 }
 .B {
-	text-align: right;
+	/*text-align: right;*/
 }
 .B img {
 	grid-area: B;
     width: auto;
     height: 100%;
-    max-width: 50%;
+    max-width: 100%;
     display: inline-block;
 }
 .ind-wrapper {
