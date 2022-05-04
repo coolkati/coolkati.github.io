@@ -17,7 +17,7 @@ var tl2 = gsap.timeline({scrollTrigger: {
 		toggleActions: 'play pause reverse resume',
 		start: "top top",
    		end: "bottom top",
-   		pin: true,
+   		pin: ".introImg",
    		scrub: true //was 3
 	}})
 	tl2.from('.logoManos', {opacity: 0, duration: 2})
